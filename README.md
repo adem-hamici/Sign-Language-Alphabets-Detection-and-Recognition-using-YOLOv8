@@ -20,3 +20,8 @@ we are going to cover:
 7. Custom Training
 8. Validate Custom Model
 9. Inference with Custom Model
+
+## The result
+
+https://github.com/adem-hamici/Sign-Language-Alphabets-Detection-and-Recognition-using-YOLOv8/assets/87099119/e3808d4d-f321-4ad9-8a72-705c858d9de6
+
